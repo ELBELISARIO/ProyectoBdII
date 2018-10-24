@@ -1,0 +1,33 @@
+[
+  {"idJugado": 1, 
+  "nmbre": "Pedro", 
+  "nivel": 5,
+  "edad": 15,
+  "esEstudiante": true
+  }, 
+  {"idJugado": 2, 
+  "nmbre": "Juan", 
+  "nivel": 5,
+  "edad": 15,
+  "esEstudiante": true
+  }
+  ,
+  {"idJugado": 3, 
+  "nmbre": "Luis", 
+  "nivel": 5,
+  "edad": 15,
+  "esEstudiante": true
+  },
+  {"idJugado": 4, 
+  "nmbre": "Uriel", 
+  "nivel": 5,
+  "edad": 15,
+  "esEstudiante": true
+  },
+  {"idJugado": 5, 
+  "nmbre": "Belisario", 
+  "nivel": 5,
+  "edad": 15,
+  "esEstudiante": true
+  }
+]
